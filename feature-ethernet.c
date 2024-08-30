@@ -14,3 +14,8 @@ void remove_ethernet()
 {
     printf("Ethernete removed");
 }
+
+void depend_feature_ethernet()
+{
+    printf("Depended feature ethernet function");
+}
